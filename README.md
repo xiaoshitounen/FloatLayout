@@ -1,7 +1,7 @@
 # FloatLayout
 流式布局
 
-博客地址：[]()
+博客地址：[自定义View-FloatLayout](https://fanandjiu.com/%E8%87%AA%E5%AE%9A%E4%B9%89View-FloatLayout/#more)
 
 app模块是其例子，参考效果如下：
 ![](https://android-1300729795.cos.ap-chengdu.myqcloud.com/project/Self_View/FloatLayout/float_layout.png)
@@ -13,10 +13,10 @@ Step 1. Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
 ~~~java
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+    repositories {
+        ...
+	maven { url 'https://jitpack.io' }
+    }
 }
 ~~~
 
