@@ -1,0 +1,3 @@
+include ':FloatLayout'
+include ':app'
+rootProject.name = "06_09_FloatLayout"

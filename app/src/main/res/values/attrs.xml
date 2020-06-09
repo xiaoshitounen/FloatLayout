@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatLayout">
+        <!--水平间距-->
+        <attr name="horizontalSpace" format="integer"/>
+        <!--垂直间距-->
+        <attr name="verticalSpace" format="integer"/>
+    </declare-styleable>
+</resources>
