@@ -1,7 +1,7 @@
 # FloatLayout
 流式布局
 
-博客地址：[自定义View-FloatLayout](https://fanandjiu.com/%E8%87%AA%E5%AE%9A%E4%B9%89View-FloatLayout/#more)
+博客地址：[自定义View-FloatLayout](http://www.fanandjiu.com/article/e95ea743.html)
 
 app模块是其例子，参考效果如下：
 ![](https://android-1300729795.cos.ap-chengdu.myqcloud.com/project/Self_View/FloatLayout/float_layout.png)
